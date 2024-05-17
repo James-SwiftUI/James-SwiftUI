@@ -8,16 +8,16 @@
 
 - 🖥️ I have been using Swift UI since its launch
 - 💻 Experience of using UIKit programmatic and stroyboards
-- 🏥 Currently in Full Time employment as a Developer 
-- 🔎 Will use resources to to solve problems
+- 🏥 Currently employed in healthcare
+- 🔎 Like searching resources to to solve problems
 - 🐛 Enjoy using new features in Xcode Beta
 
 ### Info
 
 - 🔭 I’m currently working on a medical based charts app using the Charts API 📊
 - 💾 Adding Swift Data to an existing App
-- 🌱 I’m currently learning SwiftData and iOS 17 improvements
-- 🤝 I’m looking to collaborate on Github Projects (Making in source control at work switch at work)
+- 🌱 I’m currently learning SwiftData and iOS 17 
+- 🤝 It would be good to collaborate on Github Projects (Further practice using Git)
 
 ### Resources
 
